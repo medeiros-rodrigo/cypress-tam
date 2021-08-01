@@ -1,5 +1,5 @@
 ﻿
-# API Teste 
+# Script de Teste
 
 Scripts de testes em com cypress.
 
