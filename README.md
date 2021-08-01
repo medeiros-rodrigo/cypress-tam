@@ -7,5 +7,5 @@ Scripts de testes em com cypress.
 
 * Instalar cypresse dependências
 * Abrir Cypress `npm run open-cy`
-* Selecionar teste `teste.spec.js`
+* Selecionar teste `Passagem.feature`
 
